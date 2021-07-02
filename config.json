@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "admin_user": "shivaji",
+    "admin_password": "shivaji",
+    "fb_url": "https://facebook.com/noobcoders/",
+    "git_url": "https://github.com/noobcoders/",
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/noobcoders",
+    "prod_uri": "mysql://root:@localhost/noobcoders",
+    "tw_url": "https://twitter.com/noobcoders/",
+    "blog_names": "NOOBCODERS",
+    "tag_line": "Blog for NOOB coders",
+    "gmail-user": "shivajizanjat32@gmail.com",
+    "gmail-password":"Zanjat@16",
+    "about_text": "Hi, my name is shivaji,I am noob coder.",
+    "no_of_post": 3,
+    "login-svg": "login-svg.svg",
+
+    "upload_location":"C:\\Users\\SHIVAJI\\OneDrive\\Desktop\\PROJECTS\\webdev(Flask)\\static\\assets\\img"
+  }
+
+}
